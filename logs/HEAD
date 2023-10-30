@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 e4808fc219f1241828adc62088796c9e9a720dce dnredson <dnredson@gmail.com> 1698630383 -0300	commit (initial): first commit
+e4808fc219f1241828adc62088796c9e9a720dce cd7540b0e770a41cafcc1f4799879dc95e801d99 dnredson <dnredson@gmail.com> 1698630435 -0300	commit: Terraform parte 1
+cd7540b0e770a41cafcc1f4799879dc95e801d99 cd7540b0e770a41cafcc1f4799879dc95e801d99 dnredson <dnredson@gmail.com> 1698630500 -0300	checkout: moving from master to main
+cd7540b0e770a41cafcc1f4799879dc95e801d99 a71e0a99f14cc8ea6a043768445c5f0c5fc8428e dnredson <dnredson@gmail.com> 1698632539 -0300	commit: GitLab
+a71e0a99f14cc8ea6a043768445c5f0c5fc8428e 3f4f040bc9c689d65c3bcab0a02031f9abc918b6 dnredson <dnredson@gmail.com> 1698634671 -0300	commit: GitLab
+3f4f040bc9c689d65c3bcab0a02031f9abc918b6 0000000000000000000000000000000000000000 dnredson <dnredson@gmail.com> 1698635976 -0300	Branch: renamed refs/heads/main to refs/heads/main
+3f4f040bc9c689d65c3bcab0a02031f9abc918b6 3f4f040bc9c689d65c3bcab0a02031f9abc918b6 dnredson <dnredson@gmail.com> 1698635976 -0300	Branch: renamed refs/heads/main to refs/heads/main
+3f4f040bc9c689d65c3bcab0a02031f9abc918b6 3f4f040bc9c689d65c3bcab0a02031f9abc918b6 dnredson <dnredson@gmail.com> 1698636136 -0300	checkout: moving from main to working
+3f4f040bc9c689d65c3bcab0a02031f9abc918b6 0c0a03c57282c96962c4fd70ba0f0f4140564cbc dnredson <dnredson@gmail.com> 1698636916 -0300	commit: Complete
+0c0a03c57282c96962c4fd70ba0f0f4140564cbc 0c0a03c57282c96962c4fd70ba0f0f4140564cbc dnredson <dnredson@gmail.com> 1698637212 -0300	checkout: moving from working to working
+0c0a03c57282c96962c4fd70ba0f0f4140564cbc 0c0a03c57282c96962c4fd70ba0f0f4140564cbc dnredson <dnredson@gmail.com> 1698637230 -0300	checkout: moving from working to 0c0a03c57282c96962c4fd70ba0f0f4140564cbc
